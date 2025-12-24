@@ -1,0 +1,244 @@
+{
+  "coaches": [
+    {
+      "id": "coach_001",
+      "name": "Aisha Khan",
+      "speciality": "Strength & Conditioning",
+      "sport": "Running",
+      "timezone": "Europe/London"
+    },
+    {
+      "id": "coach_002",
+      "name": "Tom Reyes",
+      "speciality": "Physiotherapy",
+      "sport": "Football",
+      "timezone": "Europe/London"
+    },
+    {
+      "id": "coach_003",
+      "name": "Grace Okoye",
+      "speciality": "Sprint Coach",
+      "sport": "Athletics",
+      "timezone": "Europe/London"
+    },
+    {
+      "id": "coach_004",
+      "name": "Marta Silva",
+      "speciality": "Endurance Coach",
+      "sport": "Cycling",
+      "timezone": "Europe/London"
+    },
+    {
+      "id": "coach_005",
+      "name": "Ben Walker",
+      "speciality": "Performance Analysis",
+      "sport": "Multi-sport",
+      "timezone": "Europe/London"
+    }
+  ],
+  "athletes": [
+    {
+      "id": "ath_001",
+      "name": "Maya Patel",
+      "sport": "Running",
+      "squad": "U23"
+    },
+    {
+      "id": "ath_002",
+      "name": "Lewis Grant",
+      "sport": "Football",
+      "squad": "First Team"
+    },
+    {
+      "id": "ath_003",
+      "name": "Sofia Novak",
+      "sport": "Athletics",
+      "squad": "Senior"
+    },
+    {
+      "id": "ath_004",
+      "name": "Noah Chen",
+      "sport": "Cycling",
+      "squad": "Development"
+    },
+    {
+      "id": "ath_005",
+      "name": "Hana Ito",
+      "sport": "Running",
+      "squad": "U23"
+    },
+    {
+      "id": "ath_006",
+      "name": "Amir Haddad",
+      "sport": "Football",
+      "squad": "Academy"
+    },
+    {
+      "id": "ath_007",
+      "name": "Ella Murphy",
+      "sport": "Cycling",
+      "squad": "Senior"
+    },
+    {
+      "id": "ath_008",
+      "name": "Jonas Berg",
+      "sport": "Athletics",
+      "squad": "U20"
+    },
+    {
+      "id": "ath_009",
+      "name": "Chloe Evans",
+      "sport": "Running",
+      "squad": "Senior"
+    },
+    {
+      "id": "ath_010",
+      "name": "Samir Ali",
+      "sport": "Multi-sport",
+      "squad": "Performance"
+    },
+    {
+      "id": "ath_011",
+      "name": "Rosa Mendes",
+      "sport": "Football",
+      "squad": "First Team"
+    },
+    {
+      "id": "ath_012",
+      "name": "Oscar Wright",
+      "sport": "Cycling",
+      "squad": "Development"
+    }
+  ],
+  "availability": [
+    {
+      "id": "slot_001",
+      "coachId": "coach_001",
+      "start": "2026-01-06T09:00:00Z",
+      "end": "2026-01-06T09:30:00Z",
+      "status": "available"
+    },
+    {
+      "id": "slot_002",
+      "coachId": "coach_001",
+      "start": "2026-01-06T10:00:00Z",
+      "end": "2026-01-06T10:30:00Z",
+      "status": "available"
+    },
+    {
+      "id": "slot_003",
+      "coachId": "coach_001",
+      "start": "2026-01-07T14:00:00Z",
+      "end": "2026-01-07T14:30:00Z",
+      "status": "booked"
+    },
+    {
+      "id": "slot_004",
+      "coachId": "coach_002",
+      "start": "2026-01-06T11:00:00Z",
+      "end": "2026-01-06T11:30:00Z",
+      "status": "available"
+    },
+    {
+      "id": "slot_005",
+      "coachId": "coach_002",
+      "start": "2026-01-07T09:00:00Z",
+      "end": "2026-01-07T09:30:00Z",
+      "status": "available"
+    },
+    {
+      "id": "slot_006",
+      "coachId": "coach_002",
+      "start": "2026-01-08T16:00:00Z",
+      "end": "2026-01-08T16:30:00Z",
+      "status": "available"
+    },
+    {
+      "id": "slot_007",
+      "coachId": "coach_003",
+      "start": "2026-01-06T13:00:00Z",
+      "end": "2026-01-06T13:30:00Z",
+      "status": "available"
+    },
+    {
+      "id": "slot_008",
+      "coachId": "coach_003",
+      "start": "2026-01-07T13:00:00Z",
+      "end": "2026-01-07T13:30:00Z",
+      "status": "available"
+    },
+    {
+      "id": "slot_009",
+      "coachId": "coach_003",
+      "start": "2026-01-08T13:00:00Z",
+      "end": "2026-01-08T13:30:00Z",
+      "status": "booked"
+    },
+    {
+      "id": "slot_010",
+      "coachId": "coach_004",
+      "start": "2026-01-06T15:00:00Z",
+      "end": "2026-01-06T15:45:00Z",
+      "status": "available"
+    },
+    {
+      "id": "slot_011",
+      "coachId": "coach_004",
+      "start": "2026-01-07T15:00:00Z",
+      "end": "2026-01-07T15:45:00Z",
+      "status": "available"
+    },
+    {
+      "id": "slot_012",
+      "coachId": "coach_004",
+      "start": "2026-01-08T15:00:00Z",
+      "end": "2026-01-08T15:45:00Z",
+      "status": "available"
+    },
+    {
+      "id": "slot_013",
+      "coachId": "coach_005",
+      "start": "2026-01-06T08:30:00Z",
+      "end": "2026-01-06T09:00:00Z",
+      "status": "available"
+    },
+    {
+      "id": "slot_014",
+      "coachId": "coach_005",
+      "start": "2026-01-07T08:30:00Z",
+      "end": "2026-01-07T09:00:00Z",
+      "status": "available"
+    },
+    {
+      "id": "slot_015",
+      "coachId": "coach_005",
+      "start": "2026-01-08T08:30:00Z",
+      "end": "2026-01-08T09:00:00Z",
+      "status": "available"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "session_001",
+      "coachId": "coach_001",
+      "slotId": "slot_003",
+      "athleteIds": [
+        "ath_001",
+        "ath_005"
+      ],
+      "notes": "Group strength session – return to training focus",
+      "createdAt": "2025-12-20T09:15:00Z"
+    },
+    {
+      "id": "session_002",
+      "coachId": "coach_003",
+      "slotId": "slot_009",
+      "athleteIds": [
+        "ath_003",
+        "ath_008"
+      ],
+      "notes": "Sprint mechanics and block start review",
+      "createdAt": "2025-12-21T14:40:00Z"
+    }
+  ]
+}
