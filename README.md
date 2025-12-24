@@ -2,6 +2,8 @@
 
 A coach scheduling platform for sports organizations built with Next.js 16, React 19, and TypeScript.
 
+![Demo](./public/demo.gif)
+
 ### How to Run the Project
 
 ### Quick Start
